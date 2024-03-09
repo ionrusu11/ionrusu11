@@ -1,24 +1,12 @@
+<h1 align="center">Hi there, I'm Ion Rusu-Discultu 👋</h1>
+<h3 align="center">A dedicated Full-Stack Web Developer from Iasi</h3>
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%2B3%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-
-<h1 align="center">Hi there, I'm Ion Rusu-Discultu 👋</h1>
-<h3 align="center">A dedicated Full-Stack Web Developer from Iasi</h3>
-
-<p align="center">
-  <a href="https://github.com/ionrusu11">
-    <img src="https://github-readme-stats.vercel.app/api?username=ionrusu11&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ionrusu11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=tokyonight" alt="GitHub Streak"/>
-  </a>
-</p>
 
 ## 📌 About Me
 
@@ -29,7 +17,7 @@
 - ⚡ Fun fact: **I love to translate complex ideas into sleek, functional designs**
 
 
-<details> 
+
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -133,7 +121,18 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+
+<p align="center">
+  <a href="https://github.com/ionrusu11">
+    <img src="https://github-readme-stats.vercel.app/api?username=ionrusu11&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ionrusu11">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 
