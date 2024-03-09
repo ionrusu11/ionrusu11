@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Ion Rusu-Discultu 👋</h1>
-<h3 align="center">A dedicated Full-Stack Web Developer from Iasi</h3>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
